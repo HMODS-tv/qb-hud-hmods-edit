@@ -13,10 +13,10 @@
 
 + **If you receive attempt to index a nil value (global 'Lang') in your F8 console, the fastest way you can fix that issue is by downloading a new version via txAdminRecipe but if you are unable to do that because of the progress you’ve made on your existing build; you’ll have to unfortunately go through and download each one from the GitHub which I do not recommend. Save yourself a lot of time and pain by just downloading the recipe!**
 
+**This HUD does come with a compass but this is not the original compass design as i took it out. in my opinion it was pretty jank and didnt look good on the eyes so i added in a simple compass from here** [Compass](https://forum.cfx.re/t/release-compass-and-street-name-hud/5525)
+
 ![Vehicle HUD](https://i.imgur.com/pUj7cSt.jpg)
 
 ![Vehicle HUD](https://i.imgur.com/9TTnlVx.jpg)
 
 ![Vehicle HUD](https://i.imgur.com/mMjAXd9.jpg)
-
-**This HUD does come with a compass but this is not the original compass design as i took it out. in my opinion it was pretty jank and didnt look good on the eyes so i added in a simple compass from here** [Compass]()
