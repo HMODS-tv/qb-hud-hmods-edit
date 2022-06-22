@@ -19,4 +19,4 @@
 
 ![Vehicle HUD](https://i.imgur.com/mMjAXd9.jpg)
 
-**This HUD does come with a compass but this is not the original compass design as i took it out. in my opinion it was pretty jank and didnt look good on the eyes so i added in a simple compass from here[Compass]()
+**This HUD does come with a compass but this is not the original compass design as i took it out. in my opinion it was pretty jank and didnt look good on the eyes so i added in a simple compass from here** [Compass]()
