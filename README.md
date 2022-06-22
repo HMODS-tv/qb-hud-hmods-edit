@@ -17,4 +17,4 @@
 
 ![Vehicle HUD](https://i.imgur.com/9TTnlVx.jpg)
 
-![Vehicle HUD](https://i.imgur.com/pUj7cSt.jpg)
+![Vehicle HUD](https://i.imgur.com/mMjAXd9.jpg)
